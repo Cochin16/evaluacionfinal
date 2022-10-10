@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-family: 'Paytone One', sans-serif;
+    font-size: 10px;
+}
+:root{
+    --color1 : rgb(29, 30, 34,1);
+
+    --color2 : rgba(255,142,94,1);
+    
+    --color3 : rgb(141, 143, 148);
+
+    --color4 : rgba(240,236,233);
+
+    --color5 : rgba(96,191,129);
+}
